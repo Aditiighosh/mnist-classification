@@ -7,7 +7,7 @@ import cv2
 from streamlit_drawable_canvas import st_canvas
 import base64
 st.title("MNIST Classification")
-image_path = '9 kb sign (1).jpeg'
+image_path = 'MNNIST-Classification--main/9 kb sign (1).jpeg'
 
 #Convert the image to base64
 with open(image_path, "rb") as image_file:
