@@ -16,7 +16,7 @@ with open(image_path, "rb") as image_file:
 col3 , col4 = st.columns(2)
 
 # Construct the absolute path of the model file
-model_path = r"/Users/aditighosh/Downloads/MNNIST-Classification--main/mnist_model.h5"
+model_path = r"mnist_model.h5"
 # abs_model_path = os.path.abspath(model_path)
 
 # Check if the model file exists
