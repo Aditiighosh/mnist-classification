@@ -1,5 +1,6 @@
-Python 
-TensorFlow
-Streamlit
-OpenCV
-Numpy
+numpy
+matplotlib
+tensorflow==2.15.0
+opencv-python-headless
+streamlit
+streamlit_drawable_canvas
